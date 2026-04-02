@@ -23,4 +23,5 @@
  */
 export function getTrafficAction(color) {
   // Your code here
+  
 }
